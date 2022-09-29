@@ -1,3 +1,3 @@
 # Python Fundamentals
 ---
-Python version: 3.10.7
+**Python version**: 3.10.7
